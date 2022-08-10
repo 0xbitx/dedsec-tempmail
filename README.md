@@ -5,6 +5,7 @@ On this tool you can create a temporary email in a second, and receive email. St
 ### INSTALLATION AND USAGE 
 * git clone https://github.com/0xbitx/dedsec-tempmail.git
 * cd dedsec-tempmail
+* pip install tabulate
 * chmod +x dedsec-tempmail.py
 * python3 dedsec-tempmail.py
 
