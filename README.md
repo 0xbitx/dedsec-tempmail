@@ -7,3 +7,13 @@ On this tool you can create a temporary email in a second, and receive email. St
 * cd dedsec-tempmail
 * chmod +x dedsec-tempmail.py
 * python3 dedsec-tempmail.py
+
+### PREREQUISITES
+* sudo - [ MUST ]
+* python3
+
+### LANGUAGE 
+* Python
+
+### Contact For Issues 
+* https://discord.gg/pDxJjPHRfs
