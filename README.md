@@ -19,7 +19,6 @@ DEDSEC TEMPOMAIL is an innovative tool designed for quick and easy generation of
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux App
 
 ## Support
 
